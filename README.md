@@ -1,1 +1,9 @@
-# HomeGainz
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Download Home Gainz</h1>
+<p>schreibt mir mal ob des funktioniert</p>
+<a href= "Home Gainz.apk" download>Download App</a>
+</body>
+</html>
