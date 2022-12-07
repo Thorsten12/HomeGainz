@@ -38340,6 +38340,10 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
+        
+        
         }
 
         /** common-rules **/
@@ -38457,6 +38461,13 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         margin-top: 20px;
         margin-bottom: 20px;
+        }
+        .u-body
+        {
+        background-size: cover;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
         }
         /** common-rules **/
 
@@ -38670,11 +38681,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 28px;
+    min-height: 89px;
   }
 
   .u-header .u-image-1 {
-    margin-bottom: -60px;
+    margin-top: 13px;
+    margin-bottom: 13px;
   }
 }
  .u-footer {
